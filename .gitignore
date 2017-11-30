@@ -1,0 +1,16 @@
+*.pyc
+/samplestates/*
+/outputdata/*
+!/samplestates/BatchT1
+!/samplestates/BatchT2
+!/samplestates/BatchT3
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
